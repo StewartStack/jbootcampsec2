@@ -9,7 +9,7 @@ public class Chatbot {
         //set up scanner. 
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Hello. What is your name?");
+        System.out.println("\nHello. What is your name?");
         //Pick up user's name and store it. 
         String name = scan.nextLine();
                            
