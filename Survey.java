@@ -33,7 +33,7 @@ public class Survey {
 
         //*********PART B: RESPONDING TO THE USER**********
         System.out.println("\nThank you " + name + " for answering all " + counter + " questions");//counter will answer how many Qs were answered
-        
+        System.out.println("Weekly, you spend $" + (coffeeAmount * coffeePrice) + " on coffee");
         System.out.println("Weekly, you spend $" + (foodAmount * foodPrice) + " on food");
 
     }
