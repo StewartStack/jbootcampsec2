@@ -39,6 +39,7 @@ public class SignUp {
         System.out.println("\tCity: " + city);
         System.out.println("\tCountry: " + country);
 
-        //close scanner. It's good practice :D ! 
+        //close scanner. It's good practice :D !
+        scan.close();
     }
 }
