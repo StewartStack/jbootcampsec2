@@ -21,7 +21,7 @@ public class SignUp {
 
         System.out.println("Make a username");  
         // If you experience trouble picking up the username, please carefully read the instructions on Learn the Part.
-        String throwAway = scan.nextLine();//This is to resolve trap?
+        scan.nextLine();//This is a throwaway nextLine to solve the skip
         String userName = scan.nextLine();       
 
         System.out.println("What city do you live in?");
