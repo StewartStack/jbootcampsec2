@@ -11,5 +11,7 @@ public class Bus {
          
           passengers -= 4;
           System.out.println(passengers);
+     
+          //06/01/2023
      }
 }
