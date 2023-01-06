@@ -17,6 +17,6 @@ public class Meeting {
         System.out.println("The refunds are at a low $" + refundTotal + ". This is a good sign!");
         System.out.println("Shipping costs were high. We paid $" + totalShipping + " in shipping");
 
-
+        //06/01/2023
     }
 }
