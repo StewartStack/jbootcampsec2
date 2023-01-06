@@ -8,6 +8,8 @@ public class Decimals {
           double wallet = 20; // Always use doubles for math calcs. This will be stored as double
           int people = 3;
           System.out.println(wallet / people);
+
+          //06/01/2023
      }
      
 }
