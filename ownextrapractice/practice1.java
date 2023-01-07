@@ -10,5 +10,9 @@ public class practice1 {
 
              int subraction = myCalculator.subtract(a: 45, b: 11);
              System.out.println(subraction);
+
+             System.out.println(myCalculator.multiply(a: 2, b: 8));
+
+             System.out.println();
     } 
 }
