@@ -13,6 +13,8 @@ public class practice1 {
 
              System.out.println(myCalculator.multiply(a: 2, b: 8));
 
+             System.out.println(myCalculator.divide(a: 8, b: 2));
+
              System.out.println();
     } 
 }
