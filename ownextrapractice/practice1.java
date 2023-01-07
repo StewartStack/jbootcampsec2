@@ -4,7 +4,7 @@ package ownextrapractice;
  */
 public class practice1 {
     public static void main(String[] args) {
-             Calculator myCalculator = new Calculator();
+             practice1 myCalculator = new practice1();
 
              System.out.println(myCalculator.add(a: 5, b: 11));
 
