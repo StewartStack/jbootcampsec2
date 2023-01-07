@@ -7,6 +7,8 @@ public class practice1 {
              Calculator myCalculator = new Calculator();
 
              System.out.println(myCalculator.add(a: 5, b: 11));
-          
+
+             int subraction = myCalculator.subtract(a: 45, b: 11);
+             System.out.println(subraction);
     } 
 }
